@@ -1,0 +1,9 @@
+org.example
+org.example.business_layer.bll
+org.example.business_layer.table_generators
+org.example.business_layer.validators
+org.example.connection
+org.example.data_access
+org.example.model
+org.example.presentation.controllers
+org.example.presentation.views
